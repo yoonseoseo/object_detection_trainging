@@ -1,12 +1,5 @@
-"""
-Usage:
-# Create train data:
-python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/train -o [PATH_TO_ANNOTATIONS_FOLDER]/train_labels.csv
-
-# Create test data:
-python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/test -o [PATH_TO_ANNOTATIONS_FOLDER]/test_labels.csv
-"""
-#modifed by Prof. Kim 2024. 03. 22
+''' Modified by Prof. Lim on 2024. 03. 22 for our great student
+in Sookmyung Women's University'''
 
 import os
 import glob
